@@ -1,0 +1,59 @@
+
+
+h1 {
+    color: #7056ba;
+    font-size: 3em;
+    text-align: center; 
+    background-color: fff;
+    font-family: 'Roboto', sans-serif;
+
+    
+    }
+    
+    h2 {
+     color:#7056ba;
+     font-size: 2em;
+    
+    }
+
+    h3 {
+        color:#7056ba;
+    }
+
+    h4 {
+        color:#7056ba;
+    }
+
+    .titulo {
+     
+     background-color: #fff;
+    }
+
+    p {
+        font-size: 20px;
+    }
+
+    body {
+        text-align: center;
+        font-family: 'Roboto', sans-serif;  
+    }
+
+    .frasecs {
+
+        color: black
+
+    }
+
+    .image {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    a {
+        color: #7056ba;
+    }
+
+    
+
+
+    *, *:after, *:before{ margin: 0; padding: 0; box-sizing: border-box}; 
